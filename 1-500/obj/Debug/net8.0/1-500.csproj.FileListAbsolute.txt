@@ -1,0 +1,15 @@
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\bin\Debug\net8.0\1-500.exe
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\bin\Debug\net8.0\1-500.deps.json
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\bin\Debug\net8.0\1-500.runtimeconfig.json
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\bin\Debug\net8.0\1-500.dll
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\bin\Debug\net8.0\1-500.pdb
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\1-500.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\1-500.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\1-500.AssemblyInfo.cs
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\1-500.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\1-500.sourcelink.json
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\1-500.dll
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\refint\1-500.dll
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\1-500.pdb
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\1-500.genruntimeconfig.cache
+C:\Users\Classtime.PC_3_506_16\Desktop\Cumsud\Apa103\1-500\obj\Debug\net8.0\ref\1-500.dll
